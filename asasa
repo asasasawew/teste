@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="X-Men: Evolution S01E01"
+#EXTINF:-1 tvg-name="tetete"
 http://srv.simpletv.click:80/series/311253332/620606616/69026.mp4
+#EXTINF:-1 tvg-name="American Pie: Tocando a Maior Zona (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyISJ1zmoppCusa7WOmmsrluU72.jpg" group-title="COMÉDIA",American Pie: Tocando a Maior Zona (2005)
+http://srv.simpletv.click:80/movie/311253332/620606616/16566.mp4
